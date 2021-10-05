@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: ../forYouKaggle/train/images
+val: ../forYouKaggle/valid/images
 
 nc: 2
 names: ['mask', 'no-mask']
